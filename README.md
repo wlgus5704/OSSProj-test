@@ -1,4 +1,2 @@
 # OSSProj-test
-
-Hello World!!!!
-fetch test
+add, commit, push
