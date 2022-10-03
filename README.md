@@ -3,3 +3,4 @@ add, commit, push
 pull test
 fetch, merge test
 JH branch!
+rebase test
